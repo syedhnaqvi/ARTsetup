@@ -18,14 +18,17 @@ Atomic Red Team is a library of tests that every security team can execute to si
 
 ### Tools Used
 
--Atomic Red Taam 
+-Atomic Red Team
+
+### Reference video
+<a href="https://youtu.be/orq-OPIdV9M">Vidoe Tutorial</a>
 
 ### Step -1 Windows 10 VM
 Open Powershell with Amdin Privileges
 ![image](https://github.com/syedhnaqvi/ARTsetup/assets/39069507/6e26c209-a3de-406e-8ad1-3e37b2fb60f6)
 
 ### Step -2 
-Logon using Administrative account
+Logon using Administrative account<br>
 ![image](https://github.com/syedhnaqvi/ARTsetup/assets/39069507/c0d5f8ad-f2d7-4f5d-b3bd-ef8ca84e5cab)
 
 ### Step -3
